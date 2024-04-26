@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/doudizhu/CV.iml" filepath="$PROJECT_DIR$/doudizhu/CV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Card - Game/Card - Game.iml" filepath="$PROJECT_DIR$/Card - Game/Card - Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-06-Student/Day-06-Student.iml" filepath="$PROJECT_DIR$/Day-06-Student/Day-06-Student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-07-code/day-07-code.iml" filepath="$PROJECT_DIR$/day-07-code/day-07-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-10-MapPorGather/day-10-MapPorGather.iml" filepath="$PROJECT_DIR$/day-10-MapPorGather/day-10-MapPorGather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-11-Stream/day-11-Stream.iml" filepath="$PROJECT_DIR$/day-11-Stream/day-11-Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-12-ExceptionANDfile/day-12-ExceptionANDfile.iml" filepath="$PROJECT_DIR$/day-12-ExceptionANDfile/day-12-ExceptionANDfile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-13-IO/day-13-IO.iml" filepath="$PROJECT_DIR$/day-13-IO/day-13-IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01-code/day01-code.iml" filepath="$PROJECT_DIR$/day01-code/day01-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02-code/day02-code.iml" filepath="$PROJECT_DIR$/day02-code/day02-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03-code/day03-code.iml" filepath="$PROJECT_DIR$/day03-code/day03-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04-code/day04-code.iml" filepath="$PROJECT_DIR$/day04-code/day04-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05-code/day05-code.iml" filepath="$PROJECT_DIR$/day05-code/day05-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08-API/day08-API.iml" filepath="$PROJECT_DIR$/day08-API/day08-API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09-SetProGather/day09-SetProGather.iml" filepath="$PROJECT_DIR$/day09-SetProGather/day09-SetProGather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mini_games/mini_games.iml" filepath="$PROJECT_DIR$/mini_games/mini_games.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled7.iml" filepath="$PROJECT_DIR$/untitled7.iml" />
+    </modules>
+  </component>
+</project>
