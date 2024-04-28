@@ -24,8 +24,6 @@ public class Demo1 {
         while ((len = fr.read())!=-1){
             System.out.print((char) len);
         }
-
-        //3.关流
         fr.close();
 
 
