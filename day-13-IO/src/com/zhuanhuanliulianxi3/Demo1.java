@@ -17,7 +17,6 @@ public class Demo1 {
          */
 
 
-
         FileReader fr = new FileReader("C:\\Users\\李新安\\Desktop\\Java代码\\zhuanhuanliu1.txt", Charset.forName("GBK"));
         //2.读取数据
         int len;
