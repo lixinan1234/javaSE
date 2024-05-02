@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a285584-d8ca-4cfc-ab54-8f861a74bddc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/Demo6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/Demo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/Demo5.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -44,18 +44,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/Demo3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/Demo5.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
@@ -64,20 +52,44 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="1166">
+              <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa2996.48448/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa2996.37393/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,18 +99,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/daiquan/Demo1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -167,7 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day-13-IO/src/com/FileOutputStream/Demo2.java" />
         <option value="$PROJECT_DIR$/day-13-IO/src/com/FileOutputStream/Demo3.java" />
         <option value="$PROJECT_DIR$/day-13-IO/src/com/ByteStream/Demo1.java" />
         <option value="$PROJECT_DIR$/day-13-IO/src/com/FileInputStream/Demo1.java" />
@@ -216,8 +215,9 @@
         <option value="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/daiquan/Student.java" />
         <option value="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/daiquan/Demo1.java" />
         <option value="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/Demo5.java" />
-        <option value="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo1.java" />
         <option value="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo2.java" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa2996.48448/Test.java" />
+        <option value="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo1.java" />
       </list>
     </option>
   </component>
@@ -610,7 +610,7 @@
       <workItem from="1714537553781" duration="3765000" />
       <workItem from="1714541813668" duration="61000" />
       <workItem from="1714572636692" duration="712000" />
-      <workItem from="1714648093555" duration="89000" />
+      <workItem from="1714648093555" duration="479000" />
     </task>
     <task id="LOCAL-00001" summary="删除">
       <created>1714295605264</created>
@@ -668,14 +668,21 @@
       <option name="project" value="LOCAL" />
       <updated>1714573003373</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="登入注册小作业">
+      <created>1714649410167</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1714649410167</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="774264000" />
+    <option name="totallyTimeSpent" value="774654000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1455" height="927" extended-state="7" />
+    <frame x="-7" y="-7" width="1455" height="927" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4987437" visible="true" weight="0.2154617" />
@@ -709,7 +716,7 @@
       <window_info anchor="right" id="Database" order="8" weight="0.32999283" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4987437" visible="true" weight="0.18539728" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4987437" visible="true" weight="0.2154617" />
       <window_info id="Structure" order="1" sideWeight="0.5012563" side_tool="true" weight="0.28775948" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -718,7 +725,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5012563" side_tool="true" weight="0.28775948" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32914573" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23994975" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.68050313" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39698493" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -727,7 +734,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32909784" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3278272" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32704404" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.3290653" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -751,30 +758,10 @@
     <MESSAGE value="随机抽取" />
     <MESSAGE value="xin" />
     <MESSAGE value="权重的随机算法" />
-    <option name="LAST_COMMIT_MESSAGE" value="权重的随机算法" />
+    <MESSAGE value="登入注册小作业" />
+    <option name="LAST_COMMIT_MESSAGE" value="登入注册小作业" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day-12-ExceptionANDfile/src/com/Exception/Demo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-12-ExceptionANDfile/src/com/Exception/Demo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-12-ExceptionANDfile/src/com/Exception/Demo2dian2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day-11-Stream/src/Stream/练习/test2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="545">
@@ -1038,13 +1025,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/Demo6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/daiquan/Demo1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -1089,17 +1069,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo1.java">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa2996.37873/Test.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/Demo6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa2996.37393/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa2996.48448/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
