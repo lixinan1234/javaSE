@@ -4,11 +4,12 @@
     <bookmark url="file://$PROJECT_DIR$/day-07-code/src/com/an/a01staticdemo1/Student.java" line="16" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a285584-d8ca-4cfc-ab54-8f861a74bddc" name="Default Changelist" comment="xin">
+    <list default="true" id="9a285584-d8ca-4cfc-ab54-8f861a74bddc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/Demo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/daiquan/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/daiquan/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/Demo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/Demo5.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,30 +44,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/Demo1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/Demo2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/Demo3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
@@ -81,8 +58,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/Demo5.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo1.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
               <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -96,10 +91,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/daiquan/Demo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="286">
               <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -172,8 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day-12-ExceptionANDfile/src/com/File/lianxi/test6.java" />
-        <option value="$PROJECT_DIR$/day-13-IO/src/com/FileOutputStream/Demo1.java" />
         <option value="$PROJECT_DIR$/day-13-IO/src/com/FileOutputStream/Demo2.java" />
         <option value="$PROJECT_DIR$/day-13-IO/src/com/FileOutputStream/Demo3.java" />
         <option value="$PROJECT_DIR$/day-13-IO/src/com/ByteStream/Demo1.java" />
@@ -219,10 +212,12 @@
         <option value="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/Demo4.java" />
         <option value="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/Demo5.java" />
         <option value="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/Demo3.java" />
-        <option value="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/Demo5.java" />
         <option value="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/Demo6.java" />
         <option value="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/daiquan/Student.java" />
         <option value="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/daiquan/Demo1.java" />
+        <option value="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/Demo5.java" />
+        <option value="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo1.java" />
+        <option value="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo2.java" />
       </list>
     </option>
   </component>
@@ -243,6 +238,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -283,6 +279,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="zonghelianxi" type="462c0819:PsiDirectoryNode" />
+              <item name="dengruzhuce" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled7" type="462c0819:PsiDirectoryNode" />
+              <item name="day-13-IO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zonghelianxi" type="462c0819:PsiDirectoryNode" />
               <item name="one" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -303,7 +308,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -605,7 +609,8 @@
       <workItem from="1714439842651" duration="3944000" />
       <workItem from="1714537553781" duration="3765000" />
       <workItem from="1714541813668" duration="61000" />
-      <workItem from="1714572636692" duration="265000" />
+      <workItem from="1714572636692" duration="712000" />
+      <workItem from="1714648093555" duration="89000" />
     </task>
     <task id="LOCAL-00001" summary="删除">
       <created>1714295605264</created>
@@ -656,17 +661,24 @@
       <option name="project" value="LOCAL" />
       <updated>1714443341234</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="权重的随机算法">
+      <created>1714573003373</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714573003373</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="773728000" />
+    <option name="totallyTimeSpent" value="774264000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1455" height="927" extended-state="6" />
+    <frame x="-7" y="-7" width="1455" height="927" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4987437" visible="true" weight="0.21259843" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4987437" visible="true" weight="0.2154617" />
       <window_info id="Structure" order="1" sideWeight="0.5012563" side_tool="true" weight="0.28775948" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -738,29 +750,10 @@
     <MESSAGE value="随机姓名" />
     <MESSAGE value="随机抽取" />
     <MESSAGE value="xin" />
-    <option name="LAST_COMMIT_MESSAGE" value="xin" />
+    <MESSAGE value="权重的随机算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="权重的随机算法" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/BufferedReader/Demo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/FileInputStream/Demo5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day-12-ExceptionANDfile/src/com/Exception/Demo1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1045,17 +1038,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/Demo5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/Demo6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/daiquan/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1086,13 +1082,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/daiquan/Demo1.java">
+    <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/Demo5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="198">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
         </state>
       </provider>
     </entry>
