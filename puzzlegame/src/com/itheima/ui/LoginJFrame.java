@@ -1,5 +1,6 @@
 package com.itheima.ui;
 
+import cn.hutool.core.io.FileUtil;
 import com.itheima.domain.User;
 import com.itheima.util.CodeUtil;
 
@@ -7,14 +8,12 @@ import javax.swing.*;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.util.ArrayList;
+import java.util.List;
 
 public class LoginJFrame extends JFrame implements MouseListener {
 
-    static ArrayList<User> allUsers = new ArrayList<>();
-    static {
-        allUsers.add(new User("zhangsan","123"));
-        allUsers.add(new User("lisi","1234"));
-    }
+     ArrayList<User> allUsers = new ArrayList<>();
+
 
     JButton login = new JButton();
     JButton register = new JButton();
@@ -28,6 +27,9 @@ public class LoginJFrame extends JFrame implements MouseListener {
     JLabel rightCode = new JLabel();
 
     public LoginJFrame() {
+        //读取本地文件的用户信息
+        readUserInfo();
+
         //初始化界面
         initJFrame();
 
@@ -36,6 +38,21 @@ public class LoginJFrame extends JFrame implements MouseListener {
 
         //让当前界面显示出来
         this.setVisible(true);
+    }
+
+    //读取本地文件中的信息
+    private void readUserInfo() {
+        //1.读取数据
+        List<String> userInfoStrList = FileUtil.readUtf8Lines("D:\\yuan\\JAVA\\untitled7\\puzzlegame\\userinfo.txt");
+        //2.遍历集合获取用户信息并创建User对象
+        for (String str : userInfoStrList) {
+            String[] userInfoArr = str.split("&");
+            String[] arr1 = userInfoArr[0].split("=");
+            String[] arr2 = userInfoArr[1].split("=");
+            User u = new User(arr1[1],arr2[1]);
+            allUsers.add(u);
+        }
+        System.out.println(allUsers);
     }
 
     public void initView() {
@@ -160,6 +177,10 @@ public class LoginJFrame extends JFrame implements MouseListener {
             }
         } else if (e.getSource() == register) {
             System.out.println("点击了注册按钮");
+            //关闭当前的登录界面
+            this.setVisible(false);
+            //打开注册页面
+            new RegisterJFrame(allUsers);
         } else if (e.getSource() == rightCode) {
             System.out.println("更换验证码");
             //获取一个新的验证码
