@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/day08-API/day08-API.iml" filepath="$PROJECT_DIR$/day08-API/day08-API.iml" />
       <module fileurl="file://$PROJECT_DIR$/day09-SetProGather/day09-SetProGather.iml" filepath="$PROJECT_DIR$/day09-SetProGather/day09-SetProGather.iml" />
       <module fileurl="file://$PROJECT_DIR$/mini_games/mini_games.iml" filepath="$PROJECT_DIR$/mini_games/mini_games.iml" />
+      <module fileurl="file://$PROJECT_DIR$/puzzlegame/puzzlegame.iml" filepath="$PROJECT_DIR$/puzzlegame/puzzlegame.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled7.iml" filepath="$PROJECT_DIR$/untitled7.iml" />
     </modules>
   </component>
