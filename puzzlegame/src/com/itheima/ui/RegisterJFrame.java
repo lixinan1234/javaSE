@@ -21,7 +21,6 @@ public class RegisterJFrame extends JFrame implements MouseListener {
     JButton submit = new JButton();
     JButton reset = new JButton();
 
-
     public RegisterJFrame(ArrayList<User> allUsers) {
         this.allUsers = allUsers;
         initFrame();
@@ -31,8 +30,7 @@ public class RegisterJFrame extends JFrame implements MouseListener {
 
     @Override
     public void mouseClicked(MouseEvent e) {
-
-        if (e.getSource()==submit){
+        if(e.getSource() == submit){
             //点击了注册按钮
             //1.用户名，密码不能为空
             if(username.getText().length() == 0 || password.getText().length() == 0 || rePassword.getText().length() == 0){
@@ -58,11 +56,10 @@ public class RegisterJFrame extends JFrame implements MouseListener {
                 showDialog("用户名已经存在，请重新输入");
                 return;
             }
-
             //5.添加用户
             allUsers.add(new User(username.getText(),password.getText()));
             //6.写入文件
-            FileUtil.writeLines(allUsers,"D:\\yuan\\JAVA\\untitled7\\puzzlegame\\userinfo.txt","UTF-8");
+            FileUtil.writeLines(allUsers,"C:\\Users\\alienware\\IdeaProjects\\basic-code\\puzzlegame\\userinfo.txt","UTF-8");
             //7.提示注册成功
             showDialog("注册成功");
             //关闭注册界面，打开登录界面
@@ -70,29 +67,26 @@ public class RegisterJFrame extends JFrame implements MouseListener {
             new LoginJFrame();
 
 
-
-        }else if(e.getSource()==reset){
+        }else if(e.getSource() == reset){
             //点击了重置按钮
             //清空三个输入框
-            System.out.println("点击了重置按钮");
             username.setText("");
             password.setText("");
             rePassword.setText("");
         }
-
     }
 
 
     /*
-     * 作用：
-     *       判断username在集合中是否存在
-     * 参数：
-     *       用户名
-     * 返回值：
-     *       true：存在
-     *       false：不存在
-     *
-     * */
+    * 作用：
+    *       判断username在集合中是否存在
+    * 参数：
+    *       用户名
+    * 返回值：
+    *       true：存在
+    *       false：不存在
+    *
+    * */
     public boolean containsUsername(String username){
         for (User u : allUsers) {
             if(u.getUsername().equals(username)){
@@ -101,6 +95,7 @@ public class RegisterJFrame extends JFrame implements MouseListener {
         }
         return false;
     }
+
 
     @Override
     public void mousePressed(MouseEvent e) {

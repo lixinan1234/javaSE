@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a285584-d8ca-4cfc-ab54-8f861a74bddc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/hutool_all_5_8_10__2_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzlegame/lib/hutool-all-5.8.10.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzlegame/puzzlegame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/puzzlegame/puzzlegame.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzlegame/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/puzzlegame/src/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/puzzlegame/src/com/itheima/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/puzzlegame/src/com/itheima/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzlegame/src/com/itheima/ui/GameJFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/puzzlegame/src/com/itheima/ui/GameJFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/puzzlegame/src/com/itheima/ui/LoginJFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/puzzlegame/src/com/itheima/ui/LoginJFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/puzzlegame/src/com/itheima/ui/RegisterJFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/puzzlegame/src/com/itheima/ui/RegisterJFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/puzzlegame/userinfo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/puzzlegame/userinfo.txt" afterDir="false" />
@@ -46,38 +45,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/ui/GameJFrame.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-110">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="246">
+              <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/ui/RegisterJFrame.java">
+        <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1490">
-              <caret line="102" column="5" lean-forward="true" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa6840.14710/RegisterJFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="66" column="30" lean-forward="true" selection-start-line="59" selection-start-column="11" selection-end-line="66" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/util/CodeUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-314">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="236">
+              <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -92,28 +79,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/test/Test3.java">
+        <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/domain/GameInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
+            <state relative-caret-position="462">
+              <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bianlian.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
               <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/test/Test4.java">
+        <entry file="file://$PROJECT_DIR$/src/java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="132">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/ui/LoginJFrame.java">
+        <entry file="file://$PROJECT_DIR$/src/jisgjiaoc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="666">
-              <caret line="110" column="46" lean-forward="true" selection-start-line="110" selection-start-column="46" selection-end-line="110" selection-end-column="46" />
+            <state relative-caret-position="132">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -121,18 +117,28 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/domain/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="49" column="30" lean-forward="true" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
-              <folding>
-                <element signature="e#884#885#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="500">
+              <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/puzzlegame/userinfo.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/mini_games/src/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/ui/LoginJFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="704">
+              <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -164,7 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day-13-IO/src/com/lianxi1/Demo1.java" />
         <option value="$PROJECT_DIR$/day-13-IO/src/com/lianxi1/Demo2.java" />
         <option value="$PROJECT_DIR$/day-13-IO/src/com/lianxi1/Demo4.java" />
         <option value="$PROJECT_DIR$/day-13-IO/src/com/BufferedInputStream/Demo1.java" />
@@ -215,6 +220,7 @@
         <option value="$PROJECT_DIR$/puzzlegame/src/com/itheima/ui/LoginJFrame.java" />
         <option value="$PROJECT_DIR$/puzzlegame/src/com/itheima/domain/User.java" />
         <option value="$PROJECT_DIR$/puzzlegame/src/com/itheima/ui/RegisterJFrame.java" />
+        <option value="$PROJECT_DIR$/puzzlegame/src/com/itheima/domain/GameInfo.java" />
       </list>
     </option>
   </component>
@@ -234,7 +240,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -245,17 +250,6 @@
             <path>
               <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled7" type="462c0819:PsiDirectoryNode" />
-              <item name="day-13-IO" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled7" type="462c0819:PsiDirectoryNode" />
-              <item name="day-13-IO" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled7" type="462c0819:PsiDirectoryNode" />
               <item name="puzzlegame" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -284,15 +278,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="itheima" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled7" type="462c0819:PsiDirectoryNode" />
-              <item name="puzzlegame" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itheima" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
@@ -311,6 +296,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -321,7 +307,7 @@
     <property name="create.test.in.the.same.root" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/bai/src" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/puzzlegame/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/puzzlegame/puzzlegame.iml" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -622,7 +608,8 @@
       <workItem from="1714746481504" duration="338000" />
       <workItem from="1714833699635" duration="73000" />
       <workItem from="1714982381640" duration="4222000" />
-      <workItem from="1714998133486" duration="7492000" />
+      <workItem from="1714998133486" duration="7745000" />
+      <workItem from="1715041977249" duration="2606000" />
     </task>
     <task id="LOCAL-00001" summary="删除">
       <created>1714295605264</created>
@@ -729,17 +716,24 @@
       <option name="project" value="LOCAL" />
       <updated>1715001620063</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="拼图游戏的完善">
+      <created>1715005700569</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1715005700569</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="787156000" />
+    <option name="totallyTimeSpent" value="790015000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1455" height="927" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4987437" visible="true" weight="0.21474588" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4987437" visible="true" weight="0.21760917" />
       <window_info id="Structure" order="1" sideWeight="0.5012563" side_tool="true" weight="0.28775948" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -819,27 +813,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="拼图游戏的完善" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa13248.45422/Test.java" />
-    <entry file="file://$PROJECT_DIR$/bai/bai.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa13248.43504/Student.java" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa13248.37362/Test.java" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa13248.1007/Test.java" />
-    <entry file="file://$PROJECT_DIR$/bai/src/bai1/stu/Demo3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa5128.3428/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="45" column="9" selection-start-line="9" selection-start-column="3" selection-end-line="45" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa5128.3428/Test.java" />
     <entry file="file://$PROJECT_DIR$/bai/src/bai1/stu/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -957,31 +931,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa18204.10316/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1142" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa18204.14567/Test.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa18204.15545/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-44">
-          <caret line="9" column="52" lean-forward="true" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa18204.16833/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa18204.11888/Test.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa18204.10316/Test.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa18204.14567/Test.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa18204.15545/Test.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa18204.16833/Test.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa18204.11888/Test.java" />
     <entry file="file://$PROJECT_DIR$/bai/src/bai1/Demo3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="896">
@@ -992,67 +946,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="55" selection-start-line="27" selection-start-column="8" selection-end-line="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa18204.17813/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17424.21646/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="610">
-          <caret line="54" column="102" lean-forward="true" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17424.8673/Test3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17424.8589/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17424.7023/Test1.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa18204.17813/Test.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17424.21646/Test.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17424.8673/Test3.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17424.8589/Test2.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17424.7023/Test1.java" />
     <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/test/MyActionListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -1084,6 +982,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa6840.14710/RegisterJFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="66" column="30" lean-forward="true" selection-start-line="59" selection-start-column="11" selection-end-line="66" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/util/CodeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/test/Test3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -1098,11 +1010,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/util/CodeUtil.java">
+    <entry file="file://$PROJECT_DIR$/puzzlegame/userinfo.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/ui/RegisterJFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-314">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="1606">
+          <caret line="79" column="35" lean-forward="true" selection-start-line="79" selection-start-column="35" selection-end-line="79" selection-end-column="35" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/ui/GameJFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="68" column="12" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bianlian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jisgjiaoc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini_games/src/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa1716.1087/GameJFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3234" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/puzzlegame/src/App.java">
@@ -1112,44 +1097,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa6840.14710/RegisterJFrame.java">
+    <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/domain/GameInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="66" column="30" lean-forward="true" selection-start-line="59" selection-start-column="11" selection-end-line="66" selection-end-column="30" />
+        <state relative-caret-position="462">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/domain/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="49" column="30" lean-forward="true" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
-          <folding>
-            <element signature="e#884#885#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/puzzlegame/userinfo.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/ui/RegisterJFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1490">
-          <caret line="102" column="5" lean-forward="true" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
+        <state relative-caret-position="500">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/ui/LoginJFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
-          <caret line="110" column="46" lean-forward="true" selection-start-line="110" selection-start-column="46" selection-end-line="110" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/ui/GameJFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-110">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="704">
+          <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
         </state>
       </provider>
     </entry>
