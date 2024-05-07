@@ -23,7 +23,7 @@ public class Demo2 {
         pro.put("ccc","123");
 
         //3.把集合中的数据以键值对的形式写到本地文件当中
-        BufferedWriter bw =new BufferedWriter(new FileWriter("C:\\Users\\李新安\\Desktop\\Java代码\\a.properties"));
+        BufferedWriter bw =new BufferedWriter(new FileWriter("day-13-IO\\a.properties"));
         pro.store(bw,"text");//写入
         bw.close();
 

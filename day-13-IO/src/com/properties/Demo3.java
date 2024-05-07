@@ -16,7 +16,7 @@ public class Demo3 {
         //1.创建集合
         Properties pro = new Properties();
         //2.读取本地Properties文件里面的数据
-        BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\李新安\\Desktop\\Java代码\\a.properties"));
+        BufferedReader br = new BufferedReader(new FileReader("day-13-IO\\a.properties"));
         pro.load(br);//读取
         br.close();
 
