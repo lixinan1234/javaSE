@@ -10,6 +10,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.io.*;
+import java.util.Properties;
 import java.util.Random;
 
 public class GameJFrame extends JFrame implements KeyListener, ActionListener {
@@ -472,9 +473,24 @@ public class GameJFrame extends JFrame implements KeyListener, ActionListener {
         } else if (obj == accountItem) {
             System.out.println("公众号");
 
+            //1.创建集合
+            Properties pro = new Properties();
+            //2.读取数据
+            try {
+                FileInputStream fis = new FileInputStream("C:\\Users\\李新安\\Desktop\\Java代码\\a.properties");
+                pro.load(fis);
+                fis.close();
+            } catch (IOException ex) {
+                ex.printStackTrace();
+            }
+            //表示配置文件中的数据已经读到集合当中
+            //3.获取图片路径
+            String png = (String) pro.get("account");
+
+
             //读取配置文件中的信息
 
-            showJDialog("puzzlegame\\image\\about\\about1.png");
+            showJDialog(png);
 
             //调用下面的showJDialog方法，展示弹框
             //showJDialog方法的参数，就是图片的路径
