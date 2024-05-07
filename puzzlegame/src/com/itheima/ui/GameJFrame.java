@@ -478,7 +478,7 @@ public class GameJFrame extends JFrame implements KeyListener, ActionListener {
             //2.读取数据
             try {
                 FileInputStream fis = new FileInputStream("C:\\Users\\李新安\\Desktop\\Java代码\\a.properties");
-                pro.load(fis);
+                pro.load(fis);//读取文件里面的的图片路径
                 fis.close();
             } catch (IOException ex) {
                 ex.printStackTrace();
