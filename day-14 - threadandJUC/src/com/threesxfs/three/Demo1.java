@@ -1,7 +1,6 @@
 package com.threesxfs.three;
 
 import java.util.concurrent.ExecutionException;
-import java.util.concurrent.Future;
 import java.util.concurrent.FutureTask;
 
 /**
@@ -31,17 +30,17 @@ public class Demo1 {
         MyCallable m = new MyCallable();
 
         //创建Future的对象，并启动（作用管理多线程运行的结果）
-        Future<Integer> f = new FutureTask<>(m);
+        FutureTask<Integer> f = new FutureTask<>(m);
 
         //创建Thread类的对象
-        Thread t = new Thread((Runnable) f);
+        Thread t = new Thread(f);
 
         //启动线程
         t.start();
 
         //获取多线程的合
-        Integer result = f.get();
-        System.out.println(result);
+
+        System.out.println(f.get());
 
 
     }
