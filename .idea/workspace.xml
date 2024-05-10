@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a285584-d8ca-4cfc-ab54-8f861a74bddc" name="Default Changelist" comment="拼图游戏代码完善">
-      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/er/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/er/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/yi/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/yi/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/yi/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/ChaRuXianCheng/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/ChaRuXianCheng/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/ChuRangXianCheng/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/ChuRangXianCheng/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/TongBuFangFa/MyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/TongBuFangFa/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/lianxi/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/lianxi/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/shouhuxiancheng/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/shouhuxiancheng/MyThread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/shouhuxiancheng/MyThread2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day-13-IO/src/com/properties/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-13-IO/src/com/properties/Demo3.java" afterDir="false" />
     </list>
@@ -46,98 +52,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/threesxfs/two/Demo1.java">
+        <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/er/Demo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+            <state relative-caret-position="412">
+              <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/threesxfs/two/MyRun.java">
+        <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/shouhuxiancheng/Demo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            <state relative-caret-position="396">
+              <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/yi/Demo1.java">
+        <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/ChuRangXianCheng/Demo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            <state relative-caret-position="330">
+              <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/yi/Demo2.java">
+        <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/ChaRuXianCheng/MyThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="176">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/ChaRuXianCheng/Demo1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/lianxi/ThreadDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/lianxi/MyThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/er/Demo1.java">
+        <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/TongBuFangFa/MyRunnable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+            <state relative-caret-position="478">
+              <caret line="34" column="90" selection-start-line="34" selection-start-column="90" selection-end-line="34" selection-end-column="90" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/er/MyThread.java">
+        <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/shouhuxiancheng/MyThread1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/yi/MyThread.java">
+        <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/TongBuFangFa/ThreadDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-              <folding>
-                <element signature="e#221#222#0" expanded="true" />
-                <element signature="e#248#249#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/one/Demo4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/threesxfs/three/Demo1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="902">
-              <caret line="42" column="36" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/threesxfs/three/MyCallable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            <state relative-caret-position="330">
+              <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -171,17 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day-13-IO/src/com/ObjectOutputStream/Demo1.java" />
-        <option value="$PROJECT_DIR$/day-13-IO/src/com/ObjectOutputStream/lianxi11.java" />
-        <option value="$PROJECT_DIR$/day-13-IO/src/com/ObjectOutputStream/lianxi1.java" />
-        <option value="$PROJECT_DIR$/day-13-IO/src/com/PrintStream/Demo1.java" />
-        <option value="$PROJECT_DIR$/day-13-IO/src/com/PrintWriter/Demo1.java" />
-        <option value="$PROJECT_DIR$/day-13-IO/src/com/zhuanhuanliulianxi3/Demo1.java" />
-        <option value="$PROJECT_DIR$/day-13-IO/src/com/ZipStream/Demo1.java" />
-        <option value="$PROJECT_DIR$/day-13-IO/src/com/ZipStream/Demo2.java" />
-        <option value="$PROJECT_DIR$/day-13-IO/src/com/ZipStream/Demo3.java" />
-        <option value="$PROJECT_DIR$/day-13-IO/src/com/Commons/Demo1.java" />
-        <option value="$PROJECT_DIR$/day-13-IO/src/com/Hutool/Demo1.java" />
         <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa3684.12585/Test2.java" />
         <option value="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/Demo1.java" />
         <option value="$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/Demo2.java" />
@@ -222,6 +210,17 @@
         <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/yi/MyThread.java" />
         <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/er/MyThread.java" />
         <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/er/Demo1.java" />
+        <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/shouhuxiancheng/MyThread2.java" />
+        <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/shouhuxiancheng/MyThread1.java" />
+        <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/shouhuxiancheng/Demo1.java" />
+        <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/ChuRangXianCheng/MyThread.java" />
+        <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/ChuRangXianCheng/Demo1.java" />
+        <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/ChaRuXianCheng/MyThread.java" />
+        <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/ChaRuXianCheng/Demo1.java" />
+        <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/lianxi/ThreadDemo.java" />
+        <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/lianxi/MyThread.java" />
+        <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/TongBuFangFa/MyRunnable.java" />
+        <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/TongBuFangFa/ThreadDemo.java" />
       </list>
     </option>
   </component>
@@ -247,6 +246,50 @@
             <path>
               <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled7" type="462c0819:PsiDirectoryNode" />
+              <item name="day-14 - threadandJUC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled7" type="462c0819:PsiDirectoryNode" />
+              <item name="day-14 - threadandJUC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled7" type="462c0819:PsiDirectoryNode" />
+              <item name="day-14 - threadandJUC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled7" type="462c0819:PsiDirectoryNode" />
+              <item name="day-14 - threadandJUC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="fangfa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled7" type="462c0819:PsiDirectoryNode" />
+              <item name="day-14 - threadandJUC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="fangfa" type="462c0819:PsiDirectoryNode" />
+              <item name="lianxi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled7" type="462c0819:PsiDirectoryNode" />
+              <item name="day-14 - threadandJUC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="fangfa" type="462c0819:PsiDirectoryNode" />
+              <item name="TongBuFangFa" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
@@ -311,39 +354,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo1 (4)">
+  <component name="RunManager" selected="Application.ThreadDemo (1)">
     <configuration name="Demo1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.threesxfs.three.Demo1" />
+      <option name="MAIN_CLASS_NAME" value="com.fangfa.ChaRuXianCheng.Demo1" />
       <module name="day-14 - threadandJUC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.threesxfs.three.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo1 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fangfa.yi.Demo1" />
-      <module name="day-14 - threadandJUC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fangfa.yi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo1 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fangfa.er.Demo1" />
-      <module name="day-14 - threadandJUC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fangfa.er.*" />
+          <option name="PATTERN" value="com.fangfa.ChaRuXianCheng.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -352,11 +369,11 @@
       </method>
     </configuration>
     <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.threesxfs.one.Demo1" />
+      <option name="MAIN_CLASS_NAME" value="com.fangfa.ChuRangXianCheng.Demo1" />
       <module name="day-14 - threadandJUC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.threesxfs.one.*" />
+          <option name="PATTERN" value="com.fangfa.ChuRangXianCheng.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -364,12 +381,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fangfa.yi.Demo2" />
+    <configuration name="MyRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fangfa.TongBuFangFa.MyRunnable" />
       <module name="day-14 - threadandJUC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fangfa.yi.*" />
+          <option name="PATTERN" value="com.fangfa.TongBuFangFa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fangfa.TongBuFangFa.ThreadDemo" />
+      <module name="day-14 - threadandJUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fangfa.TongBuFangFa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fangfa.lianxi.ThreadDemo" />
+      <module name="day-14 - threadandJUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fangfa.lianxi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -379,9 +422,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo1 (4)" />
-        <item itemvalue="Application.Demo2 (1)" />
-        <item itemvalue="Application.Demo1 (3)" />
+        <item itemvalue="Application.ThreadDemo (1)" />
+        <item itemvalue="Application.MyRunnable" />
+        <item itemvalue="Application.ThreadDemo" />
         <item itemvalue="Application.Demo1 (2)" />
         <item itemvalue="Application.Demo1" />
       </list>
@@ -568,7 +611,7 @@
       <workItem from="1715179769574" duration="465000" />
       <workItem from="1715220837912" duration="79000" />
       <workItem from="1715241812777" duration="6537000" />
-      <workItem from="1715333291268" duration="600000" />
+      <workItem from="1715333291268" duration="8474000" />
     </task>
     <task id="LOCAL-00001" summary="删除">
       <created>1714295605264</created>
@@ -738,14 +781,21 @@
       <option name="project" value="LOCAL" />
       <updated>1715245091781</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="多线程的常用方法">
+      <created>1715343074246</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1715343074246</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="806566000" />
+    <option name="totallyTimeSpent" value="814440000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1455" height="927" extended-state="7" />
+    <frame x="-7" y="-7" width="1455" height="927" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4987437" visible="true" weight="0.19183965" />
@@ -828,86 +878,10 @@
     <MESSAGE value="properties配置文件练习" />
     <MESSAGE value="多线程的实现方式" />
     <MESSAGE value="拼图游戏代码完善" />
-    <option name="LAST_COMMIT_MESSAGE" value="拼图游戏代码完善" />
+    <MESSAGE value="多线程的常用方法" />
+    <option name="LAST_COMMIT_MESSAGE" value="多线程的常用方法" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17424.7023/Test1.java" />
-    <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/test/MyActionListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/test/MyJFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-666">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/test/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-358">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/test/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-468">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa6840.14710/RegisterJFrame.java" />
-    <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/util/CodeUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/test/Test3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/puzzlegame/src/com/itheima/test/Test4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/puzzlegame/userinfo.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/zonghelianxi/dengruzhuce/Demo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa1716.1087/GameJFrame.java" />
     <entry file="file://$PROJECT_DIR$/puzzlegame/src/App.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1123,13 +1097,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/er/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/yi/MyThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -1165,10 +1132,101 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/er/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/shouhuxiancheng.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/shouhuxiancheng/MyThread2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/ChuRangXianCheng/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/ChuRangXianCheng/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/er/Demo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        <state relative-caret-position="412">
+          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/ChaRuXianCheng/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/ChaRuXianCheng/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/shouhuxiancheng/MyThread1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/shouhuxiancheng/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/lianxi/ThreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/lianxi/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/TongBuFangFa/ThreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/TongBuFangFa/MyRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="34" column="90" selection-start-line="34" selection-start-column="90" selection-end-line="34" selection-end-column="90" />
         </state>
       </provider>
     </entry>
