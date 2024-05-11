@@ -7,13 +7,6 @@
     <list default="true" id="9a285584-d8ca-4cfc-ab54-8f861a74bddc" name="Default Changelist" comment="LoskSuo">
       <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/Locksuo/Demo1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/Locksuo/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/waitandontify/Cook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/waitandontify/Desk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/waitandontify/Foodie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/waitandontify/ThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/waitandontify2/Cook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/waitandontify2/Foodie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/waitandontify2/ThreadDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day-13-IO/src/com/properties/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-13-IO/src/com/properties/Demo3.java" afterDir="false" />
     </list>
@@ -275,6 +268,22 @@
               <item name="day-14 - threadandJUC" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled7" type="462c0819:PsiDirectoryNode" />
+              <item name="day-14 - threadandJUC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="fangfa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled7" type="462c0819:PsiDirectoryNode" />
+              <item name="day-14 - threadandJUC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="threesxfs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
@@ -614,7 +623,7 @@
       <workItem from="1715352409260" duration="249000" />
       <workItem from="1715394298116" duration="273000" />
       <workItem from="1715396105853" duration="2283000" />
-      <workItem from="1715432270962" duration="7846000" />
+      <workItem from="1715432270962" duration="8087000" />
     </task>
     <task id="LOCAL-00001" summary="删除">
       <created>1714295605264</created>
@@ -805,11 +814,25 @@
       <option name="project" value="LOCAL" />
       <updated>1715352576855</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="等待唤醒机制（消费者和生产者）(厨师和吃货例子)">
+      <created>1715440953197</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1715440953197</updated>
+    </task>
+    <task id="LOCAL-00029" summary="阻塞队列实现等待唤醒机制">
+      <created>1715441101312</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1715441101312</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="825091000" />
+    <option name="totallyTimeSpent" value="825332000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1455" height="927" extended-state="6" />
@@ -898,7 +921,9 @@
     <MESSAGE value="多线程的常用方法" />
     <MESSAGE value="出让/插入线程" />
     <MESSAGE value="多线程同步代码块和同步方法的（卖票练习）" />
-    <option name="LAST_COMMIT_MESSAGE" value="多线程同步代码块和同步方法的（卖票练习）" />
+    <MESSAGE value="等待唤醒机制（消费者和生产者）(厨师和吃货例子)" />
+    <MESSAGE value="阻塞队列实现等待唤醒机制" />
+    <option name="LAST_COMMIT_MESSAGE" value="阻塞队列实现等待唤醒机制" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/puzzlegame/image/about/about3.png">
