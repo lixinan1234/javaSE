@@ -19,7 +19,6 @@ public class Demo3 {
         BufferedReader br = new BufferedReader(new FileReader("day-13-IO\\a.properties"));
         pro.load(br);//读取
         br.close();
-
         //3.打印集合
         System.out.println(pro);
     }

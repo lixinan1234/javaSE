@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a285584-d8ca-4cfc-ab54-8f861a74bddc" name="Default Changelist" comment="多线程练习（抽奖箱抽奖）">
-      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text6/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text6/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text6case2/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text6case2/MyThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day-13-IO/src/com/properties/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-13-IO/src/com/properties/Demo3.java" afterDir="false" />
     </list>
@@ -43,24 +43,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day05-code/src/com/xin/ArrayList/ArrayListDemo5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day05-code/src/com/xin/ArrayList/ArrayListDemo6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day05-code/src/com/xin/ArrayList/ArrayListDemo7.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
@@ -90,7 +72,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text6/Demo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
+            <state relative-caret-position="-20">
               <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -126,14 +108,34 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text6/MyThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+            <state relative-caret-position="198">
+              <caret line="33" column="35" lean-forward="true" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#329#330#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text6case2/MyThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="632">
+              <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text6case2/Demo1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="34" column="27" lean-forward="true" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -167,8 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/puzzlegame/src/com/itheima/domain/User.java" />
-        <option value="$PROJECT_DIR$/puzzlegame/src/com/itheima/ui/RegisterJFrame.java" />
         <option value="$PROJECT_DIR$/puzzlegame/src/com/itheima/domain/GameInfo.java" />
         <option value="$PROJECT_DIR$/day-13-IO/src/com/properties/Demo1.java" />
         <option value="$PROJECT_DIR$/day-13-IO/src/com/properties/Demo2.java" />
@@ -218,6 +218,8 @@
         <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text5/MyThread.java" />
         <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text6/Demo1.java" />
         <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text6/MyThread.java" />
+        <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text6case2/Demo1.java" />
+        <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text6case2/MyThread.java" />
       </list>
     </option>
   </component>
@@ -327,6 +329,15 @@
             <path>
               <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled7" type="462c0819:PsiDirectoryNode" />
+              <item name="day-14 - threadandJUC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lianxiti" type="462c0819:PsiDirectoryNode" />
+              <item name="text6case2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled7" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -348,7 +359,7 @@
     <property name="create.test.in.the.same.root" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/bai/src" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text6case2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -366,11 +377,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\yuan\JAVA\untitled7\day-14 - threadandJUC\src\com\lianxiti\text6case2" />
       <recent name="D:\yuan\JAVA\untitled7\day-14 - threadandJUC\src\com\lianxiti\text6" />
       <recent name="D:\yuan\JAVA\untitled7\puzzlegame\lib" />
       <recent name="D:\yuan\JAVA\untitled7\day-13-IO\lib" />
       <recent name="D:\JAVA\untitled7\mini_games\image" />
-      <recent name="D:\JAVA\untitled7\mini_games" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.an.Practice" />
@@ -392,13 +403,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo1 (5)">
+  <component name="RunManager" selected="Application.Demo1 (2)">
     <configuration name="Demo1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lianxiti.text5.Demo1" />
       <module name="day-14 - threadandJUC" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.lianxiti.text5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lianxiti.text6case2.Demo1" />
+      <module name="day-14 - threadandJUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lianxiti.text6case2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -445,26 +469,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lianxiti.text1.Demo1" />
-      <module name="day-14 - threadandJUC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lianxiti.text1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo1 (2)" />
         <item itemvalue="Application.Demo1 (5)" />
         <item itemvalue="Application.Demo1 (1)" />
         <item itemvalue="Application.Demo1 (4)" />
         <item itemvalue="Application.Demo1 (3)" />
-        <item itemvalue="Application.Demo1" />
       </list>
     </recent_temporary>
   </component>
@@ -654,7 +665,7 @@
       <workItem from="1715394298116" duration="273000" />
       <workItem from="1715396105853" duration="2283000" />
       <workItem from="1715432270962" duration="8360000" />
-      <workItem from="1715491582735" duration="12995000" />
+      <workItem from="1715491582735" duration="14459000" />
     </task>
     <task id="LOCAL-00001" summary="删除">
       <created>1714295605264</created>
@@ -901,14 +912,21 @@
       <option name="project" value="LOCAL" />
       <updated>1715500671701</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="多线程练习（抽奖箱抽奖）">
+      <created>1715505049857</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1715505049857</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="838600000" />
+    <option name="totallyTimeSpent" value="840064000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1455" height="927" extended-state="7" />
+    <frame x="-7" y="-7" width="1455" height="927" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4987437" visible="true" weight="0.20758769" />
@@ -1005,20 +1023,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="多线程练习（抽奖箱抽奖）" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/threesxfs/one/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/waitandontify2/ThreadDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/waitandontify2/Cook.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
@@ -1371,7 +1375,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text6/Demo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
+        <state relative-caret-position="-20">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1379,13 +1383,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text6case2/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text6/MyThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        <state relative-caret-position="198">
+          <caret line="33" column="35" lean-forward="true" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text6case2/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="34" column="27" lean-forward="true" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
         </state>
       </provider>
     </entry>
