@@ -25,7 +25,7 @@ public class Demo1 {
 
         //2.读取数据
         String line;
-        while ((line = br.readLine())!=null) {
+        while ((line = br.readLine())!=null){
             System.out.println(line);
         }
         //3.关流
