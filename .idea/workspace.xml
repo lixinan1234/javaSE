@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a285584-d8ca-4cfc-ab54-8f861a74bddc" name="Default Changelist" comment="UDP协议">
-      <change afterPath="$PROJECT_DIR$/day-15-wangluo/src/com/TCP/TCP/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-15-wangluo/src/com/TCP/TCP/jieshou.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text1/fasong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text1/jieshou.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-15-wangluo/clientdir/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text2/fasong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text2/jieshou.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text3/MyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text3/UUIDtext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text3/fasong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text3/jieshou.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text2/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text2/MyThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text3/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text3/MyThread.java" afterDir="false" />
@@ -46,49 +49,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-07-code/src/com/an/a03extendsdemo3/DogTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-07-code/src/com/an/a03extendsdemo3/SharPei.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-07-code/src/com/an/a03extendsdemo3/Husky.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/TCP/TCP/Demo1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text1/fasong.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+            <state relative-caret-position="550">
+              <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,10 +61,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text1/jieshou.java">
+        <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text3/jieshou.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+            <state relative-caret-position="374">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -109,28 +73,33 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/UDP/lianxi/Demo1.java">
+        <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text3/MyRunnable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="618">
+              <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+                <element signature="e#320#321#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/UDP/lianxi/Demo2.java">
+        <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text3/UUIDtext.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="264">
+              <caret line="12" column="67" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="67" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/TCP/TCP/jieshou.java">
+        <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text1/jieshou.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="29" column="52" lean-forward="true" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+            <state relative-caret-position="176">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -139,12 +108,29 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-07-code/src/com/an/a03extendsdemo3/ChineseDog.java">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12404.20450/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="572">
+              <caret line="36" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="36" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text3/fasong.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day-15-wangluo/clientdir/a.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -176,12 +162,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/lianxi/MyThread.java" />
-        <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/TongBuFangFa/ThreadDemo.java" />
-        <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/threesxfs/two/MyRun.java" />
-        <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/TongBuFangFa/MyRunnable.java" />
-        <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/Locksuo/Demo1.java" />
-        <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/fangfa/Locksuo/MyThread.java" />
         <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/waitandontify/Desk.java" />
         <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/waitandontify/Cook.java" />
         <option value="$PROJECT_DIR$/day-14 - threadandJUC/src/com/waitandontify/ThreadDemo.java" />
@@ -227,6 +207,12 @@
         <option value="$PROJECT_DIR$/day-15-wangluo/src/com/TCP/TCP/jieshou.java" />
         <option value="$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text1/fasong.java" />
         <option value="$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text1/jieshou.java" />
+        <option value="$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text2/fasong.java" />
+        <option value="$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text2/jieshou.java" />
+        <option value="$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text3/fasong.java" />
+        <option value="$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text3/UUIDtext.java" />
+        <option value="$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text3/MyRunnable.java" />
+        <option value="$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text3/jieshou.java" />
       </list>
     </option>
   </component>
@@ -246,8 +232,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -259,6 +243,18 @@
               <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled7" type="462c0819:PsiDirectoryNode" />
               <item name="day-15-wangluo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled7" type="462c0819:PsiDirectoryNode" />
+              <item name="day-15-wangluo" type="462c0819:PsiDirectoryNode" />
+              <item name="clientdir" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled7" type="462c0819:PsiDirectoryNode" />
+              <item name="day-15-wangluo" type="462c0819:PsiDirectoryNode" />
+              <item name="serverdir" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
@@ -296,33 +292,17 @@
               <item name="day-15-wangluo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="TCP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled7" type="462c0819:PsiDirectoryNode" />
-              <item name="day-15-wangluo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="TCP" type="462c0819:PsiDirectoryNode" />
-              <item name="TCP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled7" type="462c0819:PsiDirectoryNode" />
-              <item name="day-15-wangluo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="UDP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled7" type="462c0819:PsiDirectoryNode" />
-              <item name="day-15-wangluo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="UDP" type="462c0819:PsiDirectoryNode" />
               <item name="lianxi" type="462c0819:PsiDirectoryNode" />
+              <item name="text2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled7" type="462c0819:PsiDirectoryNode" />
+              <item name="day-15-wangluo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lianxi" type="462c0819:PsiDirectoryNode" />
+              <item name="text3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="untitled7" type="b2602c69:ProjectViewProjectNode" />
@@ -337,6 +317,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -363,20 +345,21 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\yuan\JAVA\untitled7\day-15-wangluo\clientdir" />
+      <recent name="D:\yuan\JAVA\untitled7\day-15-wangluo\src\com" />
+      <recent name="D:\yuan\JAVA\untitled7\day-13-IO\lib" />
+      <recent name="D:\yuan\JAVA\untitled7\day-13-IO\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.an.Practice" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\yuan\JAVA\untitled7\day-14 - threadandJUC\src\com\lianxiti\text6case2" />
       <recent name="D:\yuan\JAVA\untitled7\day-14 - threadandJUC\src\com\lianxiti\text6" />
       <recent name="D:\yuan\JAVA\untitled7\puzzlegame\lib" />
       <recent name="D:\yuan\JAVA\untitled7\day-13-IO\lib" />
       <recent name="D:\JAVA\untitled7\mini_games\image" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.an.Practice" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\yuan\JAVA\untitled7\day-15-wangluo\src\com" />
-      <recent name="D:\yuan\JAVA\untitled7\day-13-IO\lib" />
-      <recent name="D:\yuan\JAVA\untitled7\day-13-IO\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -391,13 +374,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.fasong (1)">
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.TCP.TCP.Demo1" />
+  <component name="RunManager" selected="Application.jieshou (1)">
+    <configuration name="UUIDtext" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lianxi.text3.UUIDtext" />
       <module name="day-15-wangluo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.TCP.TCP.*" />
+          <option name="PATTERN" value="com.lianxi.text3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -405,12 +388,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fasong (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lianxi.text1.fasong" />
+    <configuration name="fasong (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lianxi.text2.fasong" />
       <module name="day-15-wangluo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lianxi.text1.*" />
+          <option name="PATTERN" value="com.lianxi.text2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -419,11 +402,11 @@
       </method>
     </configuration>
     <configuration name="fasong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.UDP.sanzhon.zubo.fasong" />
+      <option name="MAIN_CLASS_NAME" value="com.lianxi.text3.fasong" />
       <module name="day-15-wangluo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.UDP.sanzhon.zubo.*" />
+          <option name="PATTERN" value="com.lianxi.text3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -445,11 +428,11 @@
       </method>
     </configuration>
     <configuration name="jieshou" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.TCP.TCP.jieshou" />
+      <option name="MAIN_CLASS_NAME" value="com.lianxi.text3.jieshou" />
       <module name="day-15-wangluo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.TCP.TCP.*" />
+          <option name="PATTERN" value="com.lianxi.text3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -458,19 +441,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.fasong" />
+      <item itemvalue="Application.fasong (2)" />
       <item itemvalue="Application.jieshou" />
-      <item itemvalue="Application.Demo1" />
+      <item itemvalue="Application.fasong" />
+      <item itemvalue="Application.UUIDtext" />
       <item itemvalue="Application.jieshou (1)" />
-      <item itemvalue="Application.fasong (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.fasong (1)" />
         <item itemvalue="Application.jieshou (1)" />
-        <item itemvalue="Application.Demo1" />
-        <item itemvalue="Application.jieshou" />
         <item itemvalue="Application.fasong" />
+        <item itemvalue="Application.jieshou" />
+        <item itemvalue="Application.UUIDtext" />
+        <item itemvalue="Application.fasong (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -667,7 +650,10 @@
       <workItem from="1715653880735" duration="1396000" />
       <workItem from="1715655444515" duration="8285000" />
       <workItem from="1715747094311" duration="5824000" />
-      <workItem from="1715778192573" duration="5636000" />
+      <workItem from="1715778192573" duration="7691000" />
+      <workItem from="1715786508944" duration="231000" />
+      <workItem from="1715827904498" duration="2304000" />
+      <workItem from="1715864369315" duration="5267000" />
     </task>
     <task id="LOCAL-00001" summary="删除">
       <created>1714295605264</created>
@@ -963,17 +949,24 @@
       <option name="project" value="LOCAL" />
       <updated>1715752721037</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="UCP协议练习">
+      <created>1715784431866</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1715784431866</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="869647000" />
+    <option name="totallyTimeSpent" value="879504000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1455" height="927" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4987437" visible="true" weight="0.20687187" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4987437" visible="true" weight="0.2154617" />
       <window_info id="Structure" order="1" sideWeight="0.5012563" side_tool="true" weight="0.28775948" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -982,7 +975,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5012563" side_tool="true" weight="0.28775948" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32830188" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33836478" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33836478" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3962264" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1041,7 +1034,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="随机抽取" />
     <MESSAGE value="xin" />
     <MESSAGE value="权重的随机算法" />
     <MESSAGE value="登入注册小作业" />
@@ -1066,7 +1058,8 @@
     <MESSAGE value="多线程练习（抽奖箱抽奖之多线程之间的比较)" />
     <MESSAGE value="线程池" />
     <MESSAGE value="UDP协议" />
-    <option name="LAST_COMMIT_MESSAGE" value="UDP协议" />
+    <MESSAGE value="UCP协议练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="UCP协议练习" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/untitled7$Demo1__3_.ic" NAME="Demo1 (3) Coverage Results" MODIFIED="1715700595399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -1074,138 +1067,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/UDP/sanzhon/zubo/jieshou3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/TCP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/UDP/sanzhon/zubo/fasong.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Documents/Tencent Files/2489460735/FileRecv/jdk-11.0.1/jdk-11.0.1/lib/src.zip!/java.base/java/net/ServerSocket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="380" column="22" selection-start-line="380" selection-start-column="22" selection-end-line="380" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Documents/Tencent Files/2489460735/FileRecv/jdk-11.0.1/jdk-11.0.1/lib/src.zip!/java.base/java/net/AbstractPlainSocketImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="435" column="8" selection-start-line="435" selection-start-column="8" selection-end-line="435" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Documents/Tencent Files/2489460735/FileRecv/jdk-11.0.1/jdk-11.0.1/lib/src.zip!/java.base/java/net/PlainSocketImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="131" selection-start-line="131" selection-end-line="131" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-07-code/src/com/jieko/Swim.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-07-code/src/com/jieko/Rabbit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-07-code/src/com/jieko/frog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-          <folding>
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-07-code/src/com/jieko/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-07-code/src/com/jieko/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="32" column="31" lean-forward="true" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
-          <folding>
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-            <element signature="e#565#566#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-07-code/src/com/chouxiang/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-07-code/src/com/chouxiang/frog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-07-code/src/com/chouxiang/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-07-code/src/com/chouxiang/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-07-code/src/com/chouxiang/Sheep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day-07-code/src/com/an/a02extendsdemo2/OverseasStudent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1438,51 +1299,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text1.java">
+    <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text1.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa15944.8348/Client.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa15944.8415/Server.java" />
+    <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/UDP/lianxi/Demo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text1/fasong.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text1/jieshou.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="220">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/UDP/lianxi/Demo2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
+        <state relative-caret-position="220">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/UDP/lianxi/Demo1.java">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa15500.19975/Server.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="176">
+          <caret line="10" column="36" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="10" selection-end-column="36" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa15500.19914/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/TCP/TCP/Demo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        <state relative-caret-position="198">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1491,8 +1340,113 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/TCP/TCP/jieshou.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="29" column="52" lean-forward="true" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+        <state relative-caret-position="594">
+          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text2/fasong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-15-wangluo/clientdir/QQ图片20201210145503.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text2/jieshou.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="45" column="23" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12404.20518/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="36" column="19" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12404.20450/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="36" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-15-wangluo/clientdir/a.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-15-wangluo/serverdir/6abfeb8e7d934f2788f64a095481f931.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-15-wangluo/serverdir/a.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text3/UUIDtext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="67" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text3/MyRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="618">
+          <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text3/jieshou.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text3/fasong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text1/fasong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-15-wangluo/src/com/lianxi/text1/jieshou.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
