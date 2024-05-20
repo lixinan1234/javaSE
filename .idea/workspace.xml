@@ -4,25 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/day-07-code/src/com/an/a01staticdemo1/Student.java" line="16" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a285584-d8ca-4cfc-ab54-8f861a74bddc" name="Default Changelist" comment="UDP协议">
-      <change afterPath="$PROJECT_DIR$/day-16-fanshe/a.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16-fanshe/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16-fanshe/day-16-fanshe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16-fanshe/src/com/myreflect1/classThree/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16-fanshe/src/com/myreflect1/classThree/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16-fanshe/src/com/myreflect2/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16-fanshe/src/com/myreflect2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16-fanshe/src/com/myreflect3/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16-fanshe/src/com/myreflect3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16-fanshe/src/com/myreflect4/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16-fanshe/src/com/myreflect4/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16-fanshe/src/com/text1/MyReflectDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16-fanshe/src/com/text1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16-fanshe/src/com/text1/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16-fanshe/src/com/text2/MyReflect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16-fanshe/src/com/text2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-16-fanshe/src/com/text2/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="9a285584-d8ca-4cfc-ab54-8f861a74bddc" name="Default Changelist" comment="反射">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text2/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text2/MyThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text3/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-14 - threadandJUC/src/com/lianxiti/text3/MyThread.java" afterDir="false" />
@@ -62,8 +44,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day-16-fanshe/src/com/text1/MyReflectDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="566">
-              <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+            <state relative-caret-position="968">
+              <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,8 +56,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day-16-fanshe/src/com/text2/MyReflect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+            <state relative-caret-position="25">
+              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,7 +68,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/properties/Demo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
+            <state relative-caret-position="220">
               <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
             </state>
           </provider>
@@ -96,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/properties/Demo3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
-              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -104,7 +86,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day-16-fanshe/src/com/text2/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-220">
+            <state relative-caret-position="176">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
@@ -115,29 +97,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1034">
               <caret line="59" column="1" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa10176.2900/MyReflectDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="17" selection-start-line="17" selection-end-line="42" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa10176.3014/Student.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa10176.3089/Teacher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" selection-start-line="2" selection-end-line="53" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -702,6 +661,7 @@
       <workItem from="1715869845204" duration="713000" />
       <workItem from="1715926986556" duration="8674000" />
       <workItem from="1716121757438" duration="3626000" />
+      <workItem from="1716127193150" duration="57000" />
     </task>
     <task id="LOCAL-00001" summary="删除">
       <created>1714295605264</created>
@@ -1011,11 +971,18 @@
       <option name="project" value="LOCAL" />
       <updated>1715869718378</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="反射">
+      <created>1716127224285</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1716127224286</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="892637000" />
+    <option name="totallyTimeSpent" value="892694000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1455" height="927" extended-state="6" />
@@ -1026,7 +993,7 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" sideWeight="0.5012563" side_tool="true" weight="0.28775948" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.4987437" visible="true" weight="0.182534" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.4987437" visible="true" weight="0.18539728" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32830188" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.33836478" />
@@ -1088,7 +1055,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="权重的随机算法" />
     <MESSAGE value="登入注册小作业" />
     <MESSAGE value="小摆" />
     <MESSAGE value="文本文件的判断登入注册" />
@@ -1113,7 +1079,8 @@
     <MESSAGE value="UDP协议" />
     <MESSAGE value="UCP协议练习" />
     <MESSAGE value="TCP协议练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="TCP协议练习" />
+    <MESSAGE value="反射" />
+    <option name="LAST_COMMIT_MESSAGE" value="反射" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/untitled7$Demo1__3_.ic" NAME="Demo1 (3) Coverage Results" MODIFIED="1715700595399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -1240,30 +1207,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa13536.2413/MyReflectDemo.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa13536.2351/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="102" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa13536.2281/Teacher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="48" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa13756.12154/MyReflectDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa13536.2413/MyReflectDemo.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa13536.2351/Student.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa13536.2281/Teacher.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa13756.12154/MyReflectDemo.java" />
     <entry file="file://$PROJECT_DIR$/day-16-fanshe/src/com/myreflect2/Demo1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -1340,30 +1287,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa2676.44123/MyReflectDemo.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa2676.43926/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="610">
-          <caret line="54" lean-forward="true" selection-start-line="2" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa2676.43999/Teacher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="610">
-          <caret line="54" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa948.10408/MyReflectDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="11" selection-start-line="11" selection-end-line="13" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa2676.44123/MyReflectDemo.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa2676.43926/Student.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa2676.43999/Teacher.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa948.10408/MyReflectDemo.java" />
     <entry file="file://$PROJECT_DIR$/day-13-IO/a.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1402,8 +1329,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day-16-fanshe/src/com/text1/MyReflectDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+        <state relative-caret-position="968">
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1412,22 +1339,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/properties/Demo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/properties/Demo2.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/properties/Demo3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
-          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-16-fanshe/src/com/text2/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-16-fanshe/src/com/text2/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="59" column="1" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa10176.2900/MyReflectDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="17" selection-start-line="17" selection-end-line="42" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -1441,31 +1382,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day-16-fanshe/src/com/text2/Teacher.java">
+    <entry file="file://$PROJECT_DIR$/day-13-IO/src/com/properties/Demo2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1034">
-          <caret line="59" column="1" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-16-fanshe/src/com/text2/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-220">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa10176.2900/MyReflectDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="17" selection-start-line="17" selection-end-line="42" selection-end-column="25" />
+        <state relative-caret-position="220">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day-16-fanshe/src/com/text2/MyReflect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        <state relative-caret-position="25">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -28,6 +28,11 @@ public class MyThread extends Thread {
                     break;
                 } else {
                     //4.判断共享数据是否到了末尾，(没有到末尾，执行核心逻辑)
+                    try {
+                        Thread.sleep(100);
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
                     gift--;
                     System.out.println(getName() + "送出的礼物，剩余" + gift + "份礼物");
                 }

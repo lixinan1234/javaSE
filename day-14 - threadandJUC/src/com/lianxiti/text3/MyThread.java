@@ -15,7 +15,7 @@ public class MyThread implements Runnable {
         //1.循环
         while (true) {
             //2.同步代码块
-            synchronized (com.lianxiti.text1.MyThread.class) {
+            synchronized (MyThread.class) {
                 //3.判断共享数据是否到了末尾，(到了末尾)
                 if (number > 100) {
                     break;
